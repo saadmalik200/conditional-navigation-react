@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/conditional-navigation-react/static/css/main.a3038b67.css",
+    "main.js": "/conditional-navigation-react/static/js/main.5708967a.js",
+    "index.html": "/conditional-navigation-react/index.html",
+    "main.a3038b67.css.map": "/conditional-navigation-react/static/css/main.a3038b67.css.map",
+    "main.5708967a.js.map": "/conditional-navigation-react/static/js/main.5708967a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3038b67.css",
+    "static/js/main.5708967a.js"
+  ]
+}
